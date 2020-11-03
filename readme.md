@@ -4,17 +4,17 @@
 
 ## 概述
 
-安装nodejs
-设置npm源
-安装vscode
-安装typescript
-初始化并编辑package.json
-配置编译选项tsconfig.json
-安装项目依赖项
-安装vscode语法提示
-建立项目
-编译项目
-执行项目
+- 安装nodejs
+- 设置npm淘宝源
+- 安装vscode
+- 安装typescript
+- 初始化并编辑package.json
+- 配置编译选项tsconfig.json
+- 安装项目依赖项
+- 安装vscode语法提示
+- 建立项目
+- 编译项目
+- 执行项目
 
 ## 安装nodejs
 
@@ -183,6 +183,4 @@ lite-server
 ~~~bash
 npm run start
 ~~~
-
-## 执行项目
 
